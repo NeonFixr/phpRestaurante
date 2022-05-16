@@ -67,6 +67,8 @@ Inspired by mexican street food, we created: TACO YEAH!.
 - [X] RESPONSIVE
 - [X] BOOTSTRAP IMPLEMENTATION
 
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -83,7 +85,10 @@ Login & Register Views ->Armando - [Github](https://github.com/aramossanchez)
 
 Readme & Ingrediente Table  -> Desa - [Github](https://github.com/NeonFixr) 
 
-Project Link: [Restaurant Repo](https://php-restaurante-geekshubs.herokuapp.com/pages/Login/Login.php)
+Project Link: [Restaurant Repo](https://github.com/tamara96mc/phpRestaurante)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### Host
+https://php-restaurante-geekshubs.herokuapp.com/
